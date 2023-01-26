@@ -96,7 +96,7 @@ react-native link react-native-text-input-mask
 ## Usage
 
 ```javascript
-import TextInputMask from 'react-native-text-input-mask';
+import TextInputMask from '@gennadysx/react-native-text-input-mask';
 ...
 <TextInputMask
   onChangeText={(formatted, extracted) => {
