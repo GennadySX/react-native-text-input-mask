@@ -16,11 +16,11 @@ Text input mask for React Native on iOS and Android.
 ## Setup
 
 ```bash
-npm install --save react-native-text-input-mask
+npm install --save @gennadysx/react-native-text-input-mask
 
 # --- or ---
 
-yarn add react-native-text-input-mask
+yarn add @gennadysx/react-native-text-input-mask
 ```
 
 # Installation
